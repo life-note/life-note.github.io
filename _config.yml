@@ -1,6 +1,11 @@
+auto: true
+
+markdown: rdiscount
 permalink: /:title
 
+name: “Life-note”
 title: Life-note
 url: https://www.sec-note.com
 feed: /atom.xml
 author_info: <a href="https://www.sec-note.com">Note</a>
+
