@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 书籍，旅行，电影
-category: BTM
+title: 匠心
+category: project
 description: Dinge von Hand gemacht.
 ---
 # [{{ page.title }}][1]

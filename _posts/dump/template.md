@@ -1,12 +1,8 @@
 ---
 layout: post
-title: 只言
-description: Die Liebe zu Welt.
-category: blog
+title: 说些
+category: Blog
+description: Text something.
 ---
-
-
-
-
 
 [Mukosame]:    http://mukosame.github.io  "Mukosame"
