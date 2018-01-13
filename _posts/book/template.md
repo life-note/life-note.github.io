@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 说些
-category: Blog
+title: 书籍
+category: book
 description: Text something.
 ---
 
