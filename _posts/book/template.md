@@ -5,4 +5,4 @@ category: book
 description: Text something.
 ---
 
-[Mukosame]:    http://mukosame.github.io  "Mukosame"
+[Life-note]:    http://life-note.github.io  "Life-note"

@@ -8,5 +8,5 @@ description: Dinge von Hand gemacht.
 2015-12-12 By {{ site.author_info }}
 
 
-[Mukosame]:    http://life-note.github.io  "Life-note"
+[Life-note]:    http://life-note.github.io  "Life-note"
 [1]:    {{ page.url}}  ({{ page.title }})

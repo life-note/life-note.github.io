@@ -9,4 +9,4 @@ category: blog
 
 
 
-[Mukosame]:    http://Life-note.github.io  "Life-note"
+[Life-note]:    http://Life-note.github.io  "Life-note"
