@@ -1,4 +1,9 @@
-他山之石1
+---
+layout:     post
+title:      他山之石1
+category: book
+description: 牛人工作上的一些思考
+---
 
 
 
