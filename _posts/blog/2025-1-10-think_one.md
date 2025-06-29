@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:  思考二三事      
+title:  思考二三事-二      
 category: blog
 description: think。
 ---
