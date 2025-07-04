@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:  逆向学习法-摘要-     
+title:  逆向学习法-摘要一     
 category: think
 description: 语言学习
 ---
