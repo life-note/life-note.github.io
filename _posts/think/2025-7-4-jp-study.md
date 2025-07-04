@@ -2,7 +2,7 @@
 layout:     post
 title:  逆向学习法-摘要-     
 category: think
-description: 语言学校
+description: 语言学习
 ---
 2025/5/31
 > 踏踏实实学英语，英语学习逆向法。
